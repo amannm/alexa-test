@@ -1,0 +1,3 @@
+TestIntent {City}
+TestIntent {City} {State}
+TestIntent {Date}
